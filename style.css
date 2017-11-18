@@ -1,0 +1,42 @@
+body {
+
+	background-color: rgb(160,160,160);
+}
+h1 {
+	font-family: rockwell;
+
+	font-size: 30pt;
+	margin: 5px;
+	color: #444;
+	text-shadow: 6px 2px 2px gray;
+	text-align: left;
+	
+}
+p{
+	font-family: bell mt;
+	font-size: 13pt;
+}
+img{
+	float: left;
+	border: 3px solid black;
+	margin: 5px;
+	margin-right: 20px;
+}
+img:hover{
+	transform: scale(1.01);
+}
+
+a{color:black;}
+a:hover{
+	color:white;
+	background-color: black;
+}
+li{
+	margin: 5px;
+}
+h2 {
+	margin: 5px;
+	font-size: 20pt;
+	text-align: left;
+	font-family: arabic typesetting;
+}
